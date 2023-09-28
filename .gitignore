@@ -1,0 +1,9 @@
+figures/
+results/
+*backup__.*
+
+__pycache__/
+.ipynb_checkpoints/
+
+.vscode
+.DS_Store
